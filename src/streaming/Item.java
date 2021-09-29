@@ -1,3 +1,5 @@
+//Programador: Victor Loyola Maia Tavares
+//Data: 28/09/2021
 package streaming;
 
 public abstract class Item {
